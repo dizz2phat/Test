@@ -8,4 +8,6 @@ int main () {
     cin >> b;
     cout <<"Ket qua bang: "<<a+b;
     getchar();
+
+    cout <<"Phep chia: "<<a/b;
 }
