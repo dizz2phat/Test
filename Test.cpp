@@ -10,4 +10,6 @@ int main () {
     getchar();
 
     cout <<"Phep chia: "<<a/b;
+
+    return 0;
 }
