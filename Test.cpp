@@ -10,4 +10,5 @@ int main () {
     getchar();
 
     cout <<"Phep chia: "<<a/b;
+    //Tạo đệ quy
 }
